@@ -94,7 +94,3 @@ West region contributed the maximum revenue
 Some products showed high sales but low profit
 
 Business can improve profit by focusing on high-margin products
-
-✅ Conclusion
-
-This project demonstrates how data analysis helps businesses make informed decisions. Through data cleaning, visualization, and analysis, meaningful insights were extracted that can help improve sales strategy and profitability.
